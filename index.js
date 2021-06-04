@@ -35,3 +35,10 @@ console.log(person.NAME);
     person['NAME'] = 'King';
 console.log(person.NAME);
 
+//Arrays
+let selectedColors = ['red', 'blue'];
+selectedColors[2] = 123;
+console.log(selectedColors);
+console.log(selectedColors.length);
+
+//Functions
