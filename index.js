@@ -42,3 +42,15 @@ console.log(selectedColors);
 console.log(selectedColors.length);
 
 //Functions
+function greet(){
+    console.log("Hello mate, the function GREET is called")
+}
+greet();
+
+let a, b;
+function sum(a, b){
+    let z;
+    z = a + b
+    console.log('The sum of a and b = ' + z);
+}
+sum(15, 20);
