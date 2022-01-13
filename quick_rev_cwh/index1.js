@@ -17,3 +17,8 @@ var objPerson = {
 console.log(objPerson);
 console.log(objPerson.age);
 
+// Boolean
+var isApproved = true;
+var isManaged = false;
+console.log(isApproved);
+console.log(isManaged);
