@@ -54,3 +54,12 @@ These days the use of XML has decremented and now the more common way of sending
 Examples of Asynchronous JS functions are:
 - **callback** based functions - eg, setTimeout()
 - **promise** based functions 
+
+## Working of Asynchronous code in JavaScript :-
+
+Since, JS is a single threaded programming language so it has to function differently to maintain the speed. As we know that in a synchronous code whenever a function is called, that particular function is pushed into the **Call Stack** and as soon as its work is done, it gets popped out.
+
+For an asynchronous code to run, the asynchronous functions are firstly pushed into the **Class Stack** and then they are transferred to the Web APIs(contained by the browser, which can manage the asynchronous code in the background, which the synchronous code is being run through the Call Stack) and then executed through them.
+
+**All Callback functions are not necessarily asynchrnous!!!**
+For example the forEach callback function, is not asynchronous
