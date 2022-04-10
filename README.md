@@ -32,4 +32,6 @@ The repo contains all the Code Snippets that I wrote in order to recall the basi
   - **nested if-else**
   - **switch case**
 
-# Async Await
+## AJAX - Ascynchronous JavaScript and XML
+
+    XML is basically a light-weight format which is used to send data from server to the browser or from one server to another
