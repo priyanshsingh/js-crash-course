@@ -2,8 +2,7 @@
 # JavaScript Crash Course
 The repo contains all the Code Snippets that I wrote in order to recall the basic concepts of **JavaScript**
 <br>
-# Documentation
-## [Read More Here!](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+# Documentation -> [Read Here!](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <br>
 ## Some of the basic concepts included are:
 - Logging data onto the console -> **console.log()**
